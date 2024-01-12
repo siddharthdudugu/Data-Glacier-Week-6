@@ -1,0 +1,10 @@
+columns:
+- Manufacturer
+- Model
+- Width
+- Length
+- Curb_weight
+- Fuel_capacity
+- Fuel_efficiency
+- Horsepower
+separator: ','
